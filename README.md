@@ -6,6 +6,7 @@ CS student .
 - 👨‍💻 C#, C++ , java , etc...
 - 👁️ HTML, CSS, javascript
 - 💽 SQL, OOP,  Data Structure, Algorithms
+- 👨‍💻 LINQ, ADO.Net
 - 👥 Project Management , Soft Skills 
   
 
