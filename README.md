@@ -1,14 +1,15 @@
-## Hey! 👋
-I'm Alaa, Interested in Backend web developement and system design .
-CS student .
+# 💫 About Me:
+I'm Alaa Hani Nadi, a .NET Backend Developer and a 2026 Computer Science graduate (Faculty of Computers, Information and Artificial Intelligence, Beni-Suef University, CGPA 3.47/4).<br><br>I build secure, well-structured REST APIs with C# and ASP.NET Core, using Clean Architecture, Entity Framework Core, JWT authentication, and role-based authorization.<br><br>Featured projects:<br>1. Limita – Digital Banking & Multi-Currency REST API (.NET 9, C# 13, EF Core, SQL Server, Docker, SignalR).<br>   Multi-currency accounts, cards, FX exchange, bill payments, and mobile recharge.<br>   Two-phase atomic transfers with double-entry ledger, optimistic concurrency, rate limiting, real-time notifications, and 229 automated tests.<br>2. Forsaty – Graduation project, team of 6. 100+ secure REST APIs, 4 user roles, 25+ entities, integration with FastAPI AI services.<br>3. Online Booking System – Cars, Flights, Hotels, Tours. Team of 6 backend developers.<br><br>Experience:<br>- Completed an advanced .NET backend internship (Vertical Slice and Clean Architecture, Docker, CI/CD, caching, background jobs, monitoring and observability) and ranked among the top 10 performers.<br>- .NET Backend Developer intern at Huma-Volve (ASP.NET Core APIs, JWT, Swagger, Git workflow).<br>- Currently in the Software Engineer track at Raya Tech University (RTU) 2026: Java, Python, FastAPI, Docker, CI/CD, IBM middleware and integration, Linux, GitHub, AWS.<br><br>Tech stack:<br>C#, ASP.NET Core Web API, Entity Framework Core, SQL, SQL Server, PostgreSQL (learning), Docker, CI/CD, Git, GitHub, Swagger, Postman, SignalR, Linux, Python, Java, C++.<br><br>Contact:<br>Email: alaahani797@gmail.com<br>LinkedIn: linkedin.com/in/alaa-hani1<br>GitHub: github.com/alaa-hani101<br>.
 
-## Skills
-- 👨‍💻 C#, C++ , java , etc...
-- 👁️ HTML, CSS, javascript
-- 💽 SQL, OOP,  Data Structure, Algorithms
-- 👨‍💻 LINQ, ADO.Net
-- 👥 Project Management , Soft Skills 
-  
 
-## Contact
-- (https://www.linkedin.com/in/alaa-hani-09b2a5254/)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alaa-hani101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alaa-hani101&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alaa-hani101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=alaa-hani101&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
